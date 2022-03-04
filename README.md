@@ -2,7 +2,7 @@
 Image resizer and extension changer using Python
 ## Team members
 1. <a href="https://github.com/MidhunNirmal">Midhun Nirmal<a>
-2. <a href="#"><a>
+2. <a href="#">BADUSA MUHAMMED AP<a>
 ## Team Id
 Python / 121
 ## Link to product walkthrough
